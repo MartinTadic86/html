@@ -1,0 +1,81 @@
+
+body {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    padding: 40px;
+    overflow: hidden;
+    border: none;
+    font: normal 38px/1 Tahoma, Geneva, sans-serif;
+    color: rgb(219, 219, 219);
+    text-align: center;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    background: linear-gradient(45deg,#0000 calc(25%/3), #424265 0 calc(50%/3),
+    #0000 0 calc(250%/3), #424265 0 calc(275%/3),
+    #0000 0),linear-gradient( 45deg,#424265 calc(25%/3), #0000 0 calc(50%/3),
+    #424265 0 25%, #0000 0 75%,
+    #424265 0 calc(250%/3), #0000 0 calc(275%/3),
+    #424265 0),
+    linear-gradient(-45deg,#0000 calc(25%/3), #424265 0 calc(50%/3),
+    #0000 0 calc(250%/3), #424265 0 calc(275%/3),
+    #0000 0),linear-gradient(-45deg,#424265 calc(25%/3), #0000 0 calc(50%/3),
+    #424265 0 25%, #0000 0 75%,
+    #424265 0 calc(250%/3), #0000 0 calc(275%/3),
+    #424265 0)
+    #19292e;
+background-size: 20px 20px;
+background-position: 0 0, 10px  10px;
+  
+    text-shadow: 1px 1px 1px rgba(158, 154, 154, 0.3) ;
+  
+}
+div {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    padding: 40px;
+    overflow: hidden;
+    border: none;
+    font: normal 24px/1 Tahoma, Geneva, sans-serif;
+    color: rgb(219, 219, 219);
+    text-align: left;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+   
+    
+   
+    text-shadow: 1px 1px 1px rgba(255, 252, 252, 0.541) ;
+  
+}
+.enjoy-css {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    width: 180px;
+    cursor: pointer;
+    padding: 18px 18px;
+    border: none;
+    -webkit-border-radius: 40px;
+    border-radius: 60px;
+    font: normal normal bold 14px;
+    color: rgb(219, 219, 219);
+    text-align: center;
+    text-transform: uppercase;
+    -o-text-overflow: clip;
+    text-overflow: clip;
+    background: rgb(64, 60, 109);
+    -webkit-transition: background 0.2s cubic-bezier(0.25, 0.25, 0.75, 0.75);
+    -moz-transition: background 0.2s cubic-bezier(0.25, 0.25, 0.75, 0.75);
+    -o-transition: background 0.2s cubic-bezier(0.25, 0.25, 0.75, 0.75);
+    transition: background 0.2s cubic-bezier(0.25, 0.25, 0.75, 0.75);
+  }
+  
+  .enjoy-css:hover {
+    font: normal normal bold 25px/
+    color: rgb(64, 60, 109);
+    background: rgba(255, 255, 255);
+  }
+
+
+  
