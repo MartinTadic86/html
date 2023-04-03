@@ -1,0 +1,116 @@
+#obdelnik {
+    width: 533px;
+    height: 310px;
+    background: #232563;
+    position: absolute;
+    top: 288px;
+    left: 408px;
+    bottom: 69;
+    right: 408;
+    margin: auto;
+}
+
+body {
+    background-color: #312E2E ;
+}
+
+#franta {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 426px;
+    top: 306px;
+    left: 426px;
+    bottom: 0;
+    right: 0;
+    background: url(franta.jpeg);
+    border-radius: 50%;
+
+    }
+
+#frantatxt {
+    position: absolute;
+     width: 220px;
+    height: 55px;
+    left: 695px;
+    top: 306px;
+        
+    font-family: 'IM FELL French Canon SC';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37px;
+    display: flex;
+    align-items: center;
+        
+    color: #BAAEAE;
+    }
+
+    #cislo  {
+        position: absolute;
+        width: 220px;
+        height: 55px;
+        left: 695px;
+        top: 361px;
+        
+        font-family: 'IM FELL French Canon SC';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 32px;
+        line-height: 37px;
+        display: flex;
+        align-items: center;
+        
+        color: #BAAEAE;
+        }
+
+#mail  {
+            position: absolute;
+    width: 220px;
+    height: 55px;
+    left: 695px;
+    top: 425px;
+
+    font-family: 'IM FELL French Canon SC';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+
+    color: #BAAEAE;
+            }
+            
+
+            
+            #triangel {
+                position: absolute;
+                width: 75px;
+                height: 65px;
+                left: 506px;
+                top: 525px;
+                bottom: 0;
+                right: 0;
+                background-image: url("triangel.jpeg");
+                    }
+
+                    #triangel2 {
+                        position: absolute;
+                        width: 75px;
+                        height: 65px;
+                        left: 456px;
+                        top: 525px;
+                        bottom: 0;
+                        right: 0;
+                        background-image: url("triangel.jpeg");
+                            }
+                                        
+                                 #koleso {
+                                         position: absolute;
+                                         width: 106px;
+                                         height: 106px;
+                                        left: 464px;
+                                        top: 492px;
+                                        border-radius: 50%;
+                                        background: #E91D29;}
