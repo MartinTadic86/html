@@ -1,0 +1,79 @@
+body{
+    position: relative;
+width: 1440px;
+height: 1024px;
+
+
+background: url(756690.png);
+
+  }
+.rektangel1{
+  position: absolute;
+width: 897px;
+height: 543px;
+left: 271px;
+top: 370px;
+
+background:
+      radial-gradient(35.36% 35.36% at 100% 25%,#0000 66%,#030306 68% 70%,#0000 72%) 10px 10px/calc(2*10px) calc(2*10px),
+      radial-gradient(35.36% 35.36% at 0    75%,#0000 66%,#030306 68% 70%,#0000 72%) 10px 10px/calc(2*10px) calc(2*10px),
+      radial-gradient(35.36% 35.36% at 100% 25%,#0000 66%,#030306 68% 70%,#0000 72%) 0 0/calc(2*10px) calc(2*10px),
+      radial-gradient(35.36% 35.36% at 0    75%,#0000 66%,#030306 68% 70%,#0000 72%) 0 0/calc(2*10px) calc(2*10px),
+      repeating-conic-gradient(#071a37 0 25%,#0000 0 50%) 0 0/calc(2*10px) calc(2*10px),
+      radial-gradient(#0000 66%,#030306 68% 70%,#0000 72%) 0 calc(10px/2)/10px 10px
+      #071a37;
+}
+.star_engine{
+    position: relative;
+width: 766px;
+height: 139px;
+left: 5px;
+top: -80px;
+
+font-family: 'Sansation';
+font-style: bold;
+font-weight: 400;
+font-size: 64px;
+line-height: 72px;
+
+color: #FFFFFF;
+}
+#logo1{
+    position: relative;
+width: 212px;
+height: 263px;
+left: -250px;
+top: -500px;
+background: url(STARCITIZEN_BLACK.png);
+}
+
+.listpicovin{
+    position: relative;
+width: 766px;
+height: 139px;
+left: 25px;
+top: -370px;
+
+font-family: 'Sansation';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 65px;
+
+color: #FFFFFF;
+}
+
+#m315p{
+  position: absolute;
+width: 200px;
+height: 200px;
+left: 10px;
+top: -250px;
+background: url(315P.png);
+animation: ship  10s infinite;
+}
+
+@keyframes ship{
+    0% {margin-left: 0%;}
+    100% {margin-left: 150%
+    };
