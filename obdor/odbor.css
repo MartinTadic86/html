@@ -1,0 +1,80 @@
+body{
+  position: relative;
+width: 1440px;
+height: 1024px;
+
+
+background: url(zed.JPEG);
+
+}
+.rektangel1{
+position: absolute;
+width: 1097px;
+height: 843px;
+left: 271px;
+top: 380px;
+opacity: 100%;
+background:
+    darkolivegreen
+}
+
+.lišta{
+position: relative;
+width: 2000px;
+height: 300px;
+left: -280px;
+top: -470px;
+opacity: 100%;
+background:
+    darkolivegreen
+}
+
+.oborzednik{
+  position: relative;
+width: 766px;
+height: 139px;
+left: -20px;
+top: -620px;
+
+font-family: 'Sansation';
+font-style: bold;
+font-weight: 400;
+font-size: 64px;
+line-height: 72px;
+
+color: #FFFFFF;
+}
+#logo1{
+  position: relative;
+width: 112px;
+height: 163px;
+left: 920px;
+top: -880px;
+background: url(lapota2.png);
+}
+
+.listpicovin{
+  position: relative;
+width: 766px;
+height: 139px;
+left: 25px;
+top: -550px;
+
+font-family: 'Sansation';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 65px;
+
+color: #FFFFFF;
+}
+
+#logo2{
+  position: relative;
+width: 112px;
+height: 163px;
+left: -380px;
+top: -1158px;
+background: url(lego2.png);
+}
+
