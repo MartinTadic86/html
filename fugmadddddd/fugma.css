@@ -1,0 +1,126 @@
+
+    body { background-color: #272727; }
+
+
+#nadpis{
+    position: absolute;
+width: 661px;
+height: 226px;
+left: 316px;
+top: 305px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 275;
+font-size: 131px;
+line-height: 113px;
+letter-spacing: -0.08em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+}
+
+
+#banner {
+position: absolute;
+width: 1441px;
+height: 961px;
+left: 0px;
+top: -76px;
+background: url(oprásek1.jpg.jpg);
+opacity: 0.82;
+}
+
+#dolni {
+position: absolute;
+width: 1442px;
+height: 1173px;
+left: -1px;
+top: 1443.74px;
+        
+background: url(oprásek2.jpg.jpg);
+    
+}
+
+#nadnadpis{
+    position: absolute;
+    width: 307px;
+    height: 28px;
+    left: 324px;
+    top: 277px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 86%;
+    /* identical to box height, or 28px */
+    
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+
+}
+
+#aboutus{
+position: absolute;
+width: 661px;
+height: 51px;
+left: 224px;
+top: 1032px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 275;
+font-size: 59px;
+line-height: 86%;
+/* identical to box height, or 51px */
+
+letter-spacing: -0.08em;
+text-transform: uppercase;
+
+color: #B78400;
+
+}
+
+#abouttext{
+    position: absolute;
+    width: 992px;
+    height: 129px;
+    left: 224px;
+    top: 1107px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 113%;
+    /* or 43px */
+    
+    letter-spacing: -0.08em;
+    
+    color: #FFFFFF;
+    }
+
+#betterchoice{
+    position: absolute;
+    width: 818px;
+    height: 75px;
+    left: 311px;
+    top: 1624px;
+        
+    font-family: 'Barlow Semi Condensed';
+    font-style: normal;
+    font-weight: 275;
+    font-size: 87px;
+    line-height: 86%;
+    /* identical to box height, or 75px */
+        
+    text-align: center;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+        
+    color: #FFFFFF;
+}
