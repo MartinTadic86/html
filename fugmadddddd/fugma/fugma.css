@@ -1,0 +1,270 @@
+
+    body { background-color: #272727; }
+
+
+#nadpis{
+    position: absolute;
+width: 661px;
+height: 226px;
+left: 316px;
+top: 305px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 275;
+font-size: 131px;
+line-height: 113px;
+letter-spacing: -0.08em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+}
+
+
+#banner {
+position: absolute;
+width: 1441px;
+height: 961px;
+left: 0px;
+top: -76px;
+background: url(oprásek1.jpg.jpg);
+opacity: 0.82;
+}
+
+#dolni {
+position: absolute;
+width: 1442px;
+height: 1173px;
+left: -1px;
+top: 1443.74px;
+        
+background: url(oprásek2.jpg.jpg);
+    
+}
+
+#nadnadpis{
+    position: absolute;
+    width: 307px;
+    height: 28px;
+    left: 324px;
+    top: 277px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 86%;
+    /* identical to box height, or 28px */
+    
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+
+}
+
+#aboutus{
+position: absolute;
+width: 661px;
+height: 51px;
+left: 224px;
+top: 1032px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 275;
+font-size: 59px;
+line-height: 86%;
+/* identical to box height, or 51px */
+
+letter-spacing: -0.08em;
+text-transform: uppercase;
+
+color: #B78400;
+
+}
+
+#abouttext{
+    position: absolute;
+    width: 992px;
+    height: 129px;
+    left: 224px;
+    top: 1107px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 113%;
+    /* or 43px */
+    
+    letter-spacing: -0.08em;
+    
+    color: #FFFFFF;
+    }
+
+#betterchoice{
+    position: absolute;
+    width: 818px;
+    height: 75px;
+    left: 311px;
+    top: 1624px;
+        
+    font-family: 'Barlow Semi Condensed';
+    font-style: normal;
+    font-weight: 275;
+    font-size: 87px;
+    line-height: 86%;
+    /* identical to box height, or 75px */
+        
+    text-align: center;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+        
+    color: #FFFFFF;
+}
+
+#simplydabest{
+    position: absolute;
+    width: 518px;
+    height: 43px;
+    left: 461px;
+    top: 1723px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 113%;
+    
+    /* identical to box height, or 43px */
+    text-align: center;
+    letter-spacing: -0.02em;
+    
+    color: #FFFFFF;
+    
+}
+
+#prices{
+ position: absolute;
+width: 746px;
+height: 51px;
+left: 347px;
+top: 1988px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 275;
+font-size: 59px;
+line-height: 86%;
+
+/* identical to box height, or 51px */
+text-align: center;
+letter-spacing: -0.08em;
+text-transform: uppercase;
+
+color: #B78400;
+    
+}
+
+#homebutton{
+    position: absolute;
+    width: 52px;
+    height: 19px;
+    left: 135px;
+    top: 62px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 100%;
+    
+    /* identical to box height, or 19px */
+    text-align: center;
+    text-transform: capitalize;
+    
+    color: #FFFFFF;
+   }
+
+   #pricebutton{
+    position: absolute;
+    width: 54px;
+    height: 19px;
+    left: 220px;
+    top: 62px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 100%;
+    
+    /* identical to box height, or 19px */
+    text-align: center;
+    text-transform: capitalize;
+    
+    color: #FFFFFF;
+   }
+
+   #contacts{
+    position: absolute;
+    width: 72px;
+    height: 19px;
+    left: 307px;
+    top: 62px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 100%;
+    
+    /* identical to box height, or 19px */
+    text-align: center;
+    text-transform: capitalize;
+    
+    color: #FFFFFF;
+   }
+
+   #lajna{
+    background: url(Vector\ 3.png);
+    position: absolute;
+    width: 1407px;
+    height: 143.56px;
+    left: -278px;
+    top: 2813px;
+
+   }
+
+   #lajna2{
+    background: url(Vector\ 2.png);
+
+    position: absolute;
+    width: 1407px;
+    height: 143.56px;
+    left: 1718px;
+    top: 3406px;
+ 
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+#BANANA{
+    position: absolute;
+    width: 216px;
+    height: 295px;
+    left: 550px;
+    top: 2080px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 210%;
+    
+    /* or 59px */
+    text-transform: uppercase;
+    
+    color: #B78400;
+}
+
